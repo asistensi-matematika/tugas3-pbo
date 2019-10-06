@@ -50,7 +50,7 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 
 ![](/img/3.png)
 
-## Screenshoot hasil
+## Screenshot hasil
 masukkan screenshot output disini
 
 ## Upload
